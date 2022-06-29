@@ -1,3 +1,3 @@
-# miniomp_sin_comentarios
+# MiniOmp
 
-Es lo mismo que el repo de miniomp_con_comentarios pero quitándoles la mayoría para dejarlo legible
+Mi implementación de las funcionalidades más básicas de OpenMP
